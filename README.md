@@ -3,7 +3,7 @@
 **The Hubitz** is your smart coworking space discovery and booking platform.  
 Whether you're a freelancer, digital nomad, or remote team, we make it easy to find the right workspace — anywhere, anytime.
 
-> 🔸 *Think orange. Think energy. Think flexibility. That's The Hubitz.*
+> 🔸 *Think free. Think energy. Think flexibility. That's The Hubitz.*
 
 ---
 
